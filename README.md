@@ -1,5 +1,10 @@
 # PyHashChain
 
+## Goal
+The goal of this project is to play around with objects and with the concept of having a transaction hash chain (very simple)
+
+## Usage
+
 To start the app, run 
 ```
 $ docker-compose run pyhashchain
@@ -26,5 +31,3 @@ To quit the command line interpreter, run:
 ```
 PyHashChain: quit
 ```
-
-## It's still under development.
