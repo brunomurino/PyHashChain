@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+
+  pyhashchain:
+    build:
+      context: .
+
+    # volumes:
+    #   - type: bind
+    #     source: ./
+    #     target: /root
+
+    # docker-compose run pyhashchain
